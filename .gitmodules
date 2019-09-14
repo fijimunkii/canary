@@ -1,0 +1,3 @@
+[submodule "usb-canary"]
+	path = usb-canary
+	url = git@github.com:fijimunkii/usb-canary.git
